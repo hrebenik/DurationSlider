@@ -1,8 +1,8 @@
 React, MaterialUI
 
-Слайдер, который принимает значения в формате ISO-8601. Имеются ограничения в диапазоне принимаемых
-значений в соответствии с потребностями проекта (протестирован на диапазонах дни/часы/минуты).
+Slider that accepts values in ISO-8601 format. There are restrictions on the range of
+values according to the needs of the project (tested on the ranges of days / hours / minutes).
 
-DurationSlider: непосредственно слайдер
-ExtendedDurationSlider: слайдер с дополнительными текстовыми полями для более точной настройки
-значений дней/часов/минут
+DurationSlider: directly the slider
+ExtendedDurationSlider: slider with additional text boxes for more precise customization
+values of days / hours / minutes
